@@ -1,0 +1,86 @@
+a:8:{s:5:"Areas";a:1:{i:0;a:1:{s:4:"html";s:689:"<div class='noglossary\' id='wikitext-sidebar'><div class="fancytree todo"><div class="opts" style="display:none">{"extensions":["persist"]}</div><ul id="treeData" style="visibility:hidden;"><li><span><b><a href="/wiki-dir/index.php/Main_Page" title="Main Page">Main Page</a></b></span></li>
+<li><span>DanteWiki</span>
+<ul><li><span><a href="/wiki-dir/index.php?title=Talk_on_DanteWiki&amp;action=edit&amp;redlink=1" class="new" title="Talk on DanteWiki (page does not exist)">Talk on DanteWiki</a></span></li>
+<li><span><a href="/wiki-dir/index.php?title=Notes&amp;action=edit&amp;redlink=1" class="new" title="Notes (page does not exist)">Notes</a></span></li></ul></li></ul></div></div>";}}s:5:"catus";a:1:{i:0;a:1:{s:4:"html";s:1604:"<div class="fancytree todo" style="display:none;" id="sidebar-cattree" ><ul><li><span ><a style='' target='_blank' title='Open category page in new window or tab'  onclick='window.openAsPopup(event);'  href='/wiki-dir/index.php/Category:DanteInitialContents'>DanteInitialContents</a></span></li><li><span ><a style='color:red;' target='_blank' title='Open category page in new window or tab'  onclick='window.openAsPopup(event);'  href='/wiki-dir/index.php/Category:Example'>Example</a></span></li><li><span ><a style='color:green;' target='_blank' title='Open category page in new window or tab'  onclick='window.openAsPopup(event);'  href='/wiki-dir/index.php/Category:Testpage'>Testpage</a></span></li></ul> </div>   <div style="margin-left:4px; margin-top:6px;line-height:20px;font-size:12pt;">
+  <a href="https://localhost:4443//wiki-dir/index.php/Special:Categories" class="dicon" title="Paged list of all categories">&forall;</a>
+  <a href="https://localhost:4443//wiki-dir/index.php/MediaWiki:CategoryTree"  class="dicon" title="Category tree">&#x1F332;</a>
+  <a href=""  class="dicon" title="Category cloud">&#9729;</a>
+  <a href="https://localhost:4443//wiki-dir/index.php/Special:UncategorizedPages"  class="dicon" title="List of pages without category">&empty;</a>
+  <a href="https://localhost:4443//wiki-dir/index.php/Special:UncategorizedCategories" 
+  style="color:red;"
+ class="dicon" title="List of categories without category">&empty;</a>
+  <a href="https://localhost:4443//wiki-dir/index.php?title=Special:AllPages&from=&to=&namespace=14"  class="dicon" title="Query page">?</a>
+</div>";}}s:10:"Navigation";a:1:{i:0;a:1:{s:4:"html";s:8831:"<div class='noglossary\' id='wikitext-sidebar'><div class="fancytree todo"><div class="opts" style="display:none">{"extensions":["persist"]}</div><ul id="treeData" style="visibility:hidden;"><li><span> <b><a rel="nofollow" class="text" href="https://localhost:4443/wiki-dir/index.php/Main_Page">Main Page</a></b></span></li>
+<li><span> <a href="/wiki-dir/index.php/MediaWiki:CreatePage" title="MediaWiki:CreatePage">Create Page</a></span></li>
+<li><span> <a rel="nofollow" class="text" href="https://localhost:4443/wiki-dir/index.php/Special:RecentChanges">Recent Changes</a></span></li>
+<li><span> <b>Help</b></span>
+<ul><li><span> <a rel="nofollow" class="external text" href="https://help.fandom.com/wiki/Extension:DPL3/Manual">DPL3</a></span></li>
+<li><span> <a href="/wiki-dir/index.php/Help:Sidebar" title="Help:Sidebar"> Sidebar</a></span></li>
+<li><span> <a href="/wiki-dir/index.php/Help:Parsifal_Cheat" title="Help:Parsifal Cheat"> Parsifal Cheat</a></span></li>
+<li><span> <a href="/wiki-dir/index.php/Help:Dante_Cheat" title="Help:Dante Cheat"> Dante Cheat</a></span></li>
+<li><span> <a class="external text" href="https://www.mediawiki.org/wiki/Help:Links">Links WP</a></span></li></ul></li>
+<li><span> <b>Sidebar Edits</b></span>
+<ul><li><span> <a rel="nofollow" class="text" href="https://localhost:4443/wiki-dir/index.php?title=MediaWiki:Sidebar&amp;action=edit">Full Sidebar</a></span></li>
+<li><span> <a rel="nofollow" class="text" href="https://localhost:4443/wiki-dir/index.php?title=MediaWiki:Sidebar/Areas&amp;action=edit">Areas</a></span></li>
+<li><span> <a rel="nofollow" class="text" href="https://localhost:4443/wiki-dir/index.php?title=MediaWiki:Sidebar/Categories&amp;action=edit">Categories</a></span></li>
+<li><span> <a rel="nofollow" class="text" href="https://localhost:4443/wiki-dir/index.php?title=MediaWiki:Sidebar/Navigation&amp;action=edit">Navigation</a></span></li>
+<li><span> <a rel="nofollow" class="text" href="https://localhost:4443/wiki-dir/index.php?title=MediaWiki:Sidebar/UI&amp;action=edit">UI</a></span></li></ul></li>
+<li><span> <b title="Query for pages in specific namespaces">Lists &amp; Queries</b></span>
+<ul><li><span> <a rel="nofollow" class="text" href="https://localhost:4443/wiki-dir/index.php/Special:AllPages">All Pages</a></span></li>
+<li><span> <a rel="nofollow" class="text" href="https://localhost:4443/wiki-dir/index.php?title=Special:AllPages&amp;from=&amp;to=&amp;namespace=8">MediaWiki</a></span></li>
+<li><span> <a rel="nofollow" class="text" href="https://localhost:4443/wiki-dir/index.php?title=Special:AllPages&amp;from=&amp;to=&amp;namespace=14">Category</a></span></li>
+<li><span> <a rel="nofollow" class="text" href="https://localhost:4443/wiki-dir/index.php?title=Special:AllPages&amp;from=&amp;to=&amp;namespace=10">Template</a></span></li>
+<li><span> <a rel="nofollow" class="text" href="https://localhost:4443/wiki-dir/index.php?title=Special:AllPages&amp;from=&amp;to=&amp;namespace=2">User</a></span></li>
+<li><span> <a rel="nofollow" class="text" href="https://localhost:4443/wiki-dir/index.php?title=Special:AllPages&amp;from=&amp;to=&amp;namespace=12">Help</a></span></li>
+<li><span> <a rel="nofollow" class="text" href="https://localhost:4443/wiki-dir/index.php?title=Special:AllPages&amp;from=&amp;to=&amp;namespace=4">Project</a></span></li>
+<li><span> <a rel="nofollow" class="text" href="https://localhost:4443/wiki-dir/index.php/Special:ListFiles">Files</a></span></li></ul></li>
+<li><span> <b title="Found a bug">Issues</b></span>
+<ul><li><span> <a rel="nofollow" class="external text windowlink" target="_side" href="https://github.com/clecap/dante-delta/issues">DanteDelta Issues</a></span></li>
+<li><span> <a rel="nofollow" class="external text windowlink" target="_side" href="https://github.com/clecap/dante-wiki/issues">DanteWiki Issues</a></span></li>
+<li><span> <a rel="nofollow" class="external text windowlink" target="_side" href="https://github.com/clecap/dante-wiki-production/issues">DanteProduction Issues</a></span></li>
+<li><span> <a rel="nofollow" class="external text windowlink" target="_side" href="https://github.com/clecap/Parsifal/issues">Parsifal Issues</a></span></li></ul></li>
+<li><span> <b title="Check this regularly">Maintenance</b></span>
+<ul><li><span> <a href="/wiki-dir/index.php/Special:BrokenRedirects" title="Special:BrokenRedirects"> Broken Redirects</a></span></li>
+<li><span> <a href="/wiki-dir/index.php/Special:DoubleRedirects" title="Special:DoubleRedirects"> Double Redirects</a></span></li>
+<li><span> <a href="/wiki-dir/index.php/Special:UncategorizedPages" title="Special:UncategorizedPages"> Uncat Pages</a></span></li>
+<li><span> <a href="/wiki-dir/index.php/Special:WantedPages" title="Special:WantedPages"> Missing Pages</a></span></li></ul></li>
+<li><span> <b>Demos &amp; Tests</b></span>
+<ul><li><span> Javascript Gadget Tests</span>
+<ul><li><span> <b><a rel="nofollow" class="text" href="javascript:window.DANTE.testConsole()">window.DANTE.testConsole()</a></b></span></li>
+<li><span> <b><a rel="nofollow" class="text" href="javascript:Dante.testConsoleZwei()">Dante.testConsoleZwei()</a></b></span></li>
+<li><span> <b><a rel="nofollow" class="text" href="javascript:Dante.testConsoleDrei()">Dante.testConsoleDrei()</a></b></span></li>
+<li><span> <b><a rel="nofollow" class="text" href="javascript:console.log(Dante.testConsoleDrei);">testprintfc</a></b></span></li>
+<li><span> <b><a rel="nofollow" class="text" href="javascript:console.log(Dante);">Log Dante object</a></b></span></li>
+<li><span> <b><a rel="nofollow" class="text" href="javascript:console.log(Dante.testDump);">Log Dante.testDump</a></b></span></li>
+<li><span> <b><a rel="nofollow" class="text" href="javascript:Dante.testDump();">Dante.testDump</a></b></span></li></ul></li>
+<li><span> <a href="/wiki-dir/index.php/Help:Tests_for_Drawio" title="Help:Tests for Drawio">Drawio</a></span></li>
+<li><span> Parsifal Tests</span>
+<ul><li><span> <a href="/wiki-dir/index.php/Help:Parsifal_Internal_Links" title="Help:Parsifal Internal Links">Help:Parsifal Internal Links</a></span></li>
+<li><span> <a href="/wiki-dir/index.php/Help:Demo_for_DanteLinks" title="Help:Demo for DanteLinks"> Dante-Links</a></span></li>
+<li><span> <a href="/wiki-dir/index.php/Help:Demo_for_Parsifal" title="Help:Demo for Parsifal"> Parsifal</a></span></li>
+<li><span> <a href="/wiki-dir/index.php/Help:Diverse_Tests" title="Help:Diverse Tests">Help:Diverse Tests</a></span></li>
+<li><span> <a href="/wiki-dir/index.php/Test/Parsifal_Section_Heading_Style" title="Test/Parsifal Section Heading Style">Test/Parsifal Section Heading Style</a></span></li>
+<li><span> <a href="/wiki-dir/index.php/Help:Parsifal_Diverse_Demo" title="Help:Parsifal Diverse Demo">Diverse Parsifal</a></span></li>
+<li><span> <a href="/wiki-dir/index.php/Help:Test_for_DanteLinks" title="Help:Test for DanteLinks">DanteLinks</a></span></li>
+<li><span> <a href="/wiki-dir/index.php/Help:Parsifal_Test" title="Help:Parsifal Test">Parsifal General Tests</a></span></li>
+<li><span> <a href="/wiki-dir/index.php/Help:Parsifal_Raw_Test" title="Help:Parsifal Raw Test">Parsifal Raw Tests</a></span></li>
+<li><span> <a href="/wiki-dir/index.php/Help:Parsifal_Page_Width" title="Help:Parsifal Page Width">Parsifal Page Width</a></span></li>
+<li><span> <a href="/wiki-dir/index.php/Help:Slides_Test_Reveal" title="Help:Slides Test Reveal">Slides Reveal</a></span></li></ul></li>
+<li><span> Javascript PRT Tests</span>
+<ul><li><span> <b><a rel="nofollow" class="text" href="javascript:PRT.limitSize(true)">Limit Size ON</a></b></span></li>
+<li><span> <b><a rel="nofollow" class="text" href="javascript:PRT.limitSize(false)">Limit Size OFF</a></b></span></li></ul></li></ul></li>
+<li><span> <a href="/wiki-dir/index.php/Special:Upload" title="Special:Upload"> Upload file</a></span></li>
+<li><span> <a href="/wiki-dir/index.php/Special:SpecialPages" title="Special:SpecialPages"> Special pages</a></span></li>
+<li><span> <b>Page Tools</b></span>
+<ul><li><span> <a rel="nofollow" class="text" href="https://localhost:4443/wiki-dir/index.php/Dummy:WhatLinksHere">What links here?</a></span></li>
+<li><span> <a rel="nofollow" class="text" href="https://localhost:4443/wiki-dir/index.php/Dummy:PageInfo">Page Info</a></span></li>
+<li><span> <a rel="nofollow" class="text" href="https://localhost:4443/wiki-dir/index.php/Dummy:RelatedChanges">Related Changes</a></span></li>
+<li><span> <a rel="nofollow" class="text" href="https://localhost:4443/wiki-dir/index.php/Dummy:PermaLink">Permanent Link</a></span></li>
+<li><span> <a rel="nofollow" class="text" href="https://localhost:4443/wiki-dir/index.php/Dummy:CiteThisPage">Cite this page</a></span></li>
+<li><span> <a rel="nofollow" class="text" href="javascript:print(true)">Printable version</a></span></li></ul></li></ul></div></div>";}}s:2:"UI";a:1:{i:0;a:1:{s:4:"html";s:712:"<div class='noglossary\' id='wikitext-sidebar'><div class="fancytree todo"><div class="opts" style="display:none">{"extensions":["persist"]}</div><ul id="treeData" style="visibility:hidden;"><li><span> <b id="limitSize" title="Change setting: Limit automagic growth of TeX areas."><a rel="nofollow" class="text" href="javascript:PRT.toggleLimitSize()">Limit Size:</a></b></span></li>
+<li><span> <b id="variantShow" title="Change setting: Show variants of pages."><a rel="nofollow" class="text" href="javascript:PRT.toggleVariants()">Show Variants:</a></b></span></li>
+<li><span> <b><a rel="nofollow" class="text" href="javascript:window.persistCatWindow()">Persist Cat Window</a></b></span></li></ul></div></div>";}}s:6:"Social";a:1:{i:0;a:1:{s:4:"html";s:847:"<div class='noglossary\' id='wikitext-sidebar'><div class="fancytree todo"><div class="opts" style="display:none">{"extensions":["persist"]}</div><ul id="treeData" style="visibility:hidden;"><li><span> <a rel="nofollow" class="external text" href="https://orcid.org/0000-0003-3958-6136">Orcid</a></span></li>
+<li><span> <a rel="nofollow" class="external text" href="https://scholar.google.com/citations?hl=en&amp;user=fAf_fA4AAAAJ">Google Scholar</a></span></li>
+<li><span> <a rel="nofollow" class="external text" href="https://dblp.org/pid/49/2208.html">DBLP</a></span></li>
+<li><span> <a rel="nofollow" class="external text" href="https://de.linkedin.com/in/clemens-h-cap-489691257">LinkedIn</a></span></li>
+<li><span> <a rel="nofollow" class="external text" href="https://www.xing.com/profile/ClemensH_Cap">Xing</a></span></li></ul></div></div>";}}s:6:"SEARCH";a:0:{}s:7:"TOOLBOX";a:0:{}s:9:"LANGUAGES";a:0:{}}
